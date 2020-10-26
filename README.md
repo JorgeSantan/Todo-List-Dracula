@@ -20,7 +20,7 @@ $ git clone https://github.com/JorgeSantan/Todo_List.git </pre>
 
 # 📦 Ligar o servidor  
 <pre>
-Você vai presisar rodar com Live Server </pre>
+Você vai precisar  rodar com Live Server </pre>
 
 ## 👨‍💻 Visualizar WebSite
 ## Vá para http://localhost:5500/ para ver o website.
